@@ -30,7 +30,7 @@ function BookList() {
 
   return (
     <>
-      <h1>QR Codes</h1>
+      <h1>Rahul Luthra</h1>
       <section className="booklist">
         {/* Display only the current book */}
         <Book {...currentBook} key={currentBook.id} />
